@@ -3,6 +3,7 @@
 members = [
     "xxd",
     "tobytes",
+    "frombytes",
     "preidolia",
     "bricks",
     "formats",
